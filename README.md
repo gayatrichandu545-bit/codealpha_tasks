@@ -76,8 +76,12 @@ Run with Python version 3 or higher.
 Files Included:
 
 task1.py               - Code for Hangman Game
+
 task2.py               - Code for Stock Portfolio Tracker
+
 portfolio_summary.txt  - Output of Portfolio Tracker
+
 correct_guess_output.jpg - Output of Hangman Game when guessed correctly
+
 wrong_guess_output.jpg   - Output of Hangman Game when guessed wrongly
 --------------------------------------------
