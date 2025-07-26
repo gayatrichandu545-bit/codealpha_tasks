@@ -84,4 +84,5 @@ portfolio_summary.txt  - Output of Portfolio Tracker
 correct_guess_output.jpg - Output of Hangman Game when guessed correctly
 
 wrong_guess_output.jpg   - Output of Hangman Game when guessed wrongly
+
 --------------------------------------------
